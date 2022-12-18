@@ -125,7 +125,7 @@ a:hover::before {
 }
 
 .cart-container {
-  background: #fff;
+  background: rgb(221, 171, 129);
   border-radius: 7px;
   box-shadow: 0 10px 35px -15px rgba(0, 0, 0, .541);
   left: 80%;
